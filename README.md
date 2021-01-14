@@ -17,6 +17,8 @@
 ## Dialog
 1. [Material Dialog](https://github.com/afollestad/material-dialogs)
    : 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android
+2. [AestheticDialog](https://github.com/gabriel-TheCode/AestheticDialogs)
+   : 📱 An Android Library for 💫fluid, 😍beautiful, 🎨custom Dialogs.
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
@@ -25,6 +27,8 @@
    : An ExpandableRecycleradapter with Recyclerview
 3. [Alphabet Index RecyclerView Library](https://github.com/myinnos/AlphabetIndex-Fast-Scroll-RecyclerView)
    : A Powerful AlphabetIndex FastScroller Library for Android's RecyclerView!
+4. [Expandable RecyclerView Library with Animation](https://github.com/pokercc/ExpandableRecyclerView)
+   : ExpandableRecyclerView with smoothly animation.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
@@ -33,6 +37,10 @@
 ## TimelineView
    [Timeline-View](https://github.com/vipulasri/Timeline-View)
    : Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
+   
+## Tab Layout
+   [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
+   : Extended Android Tab Layout with animated indicators that have continuous feedback.
   
 ## Tutorial for your App/Spotlight
    [Spotlight](https://github.com/TakuSemba/Spotlight)
