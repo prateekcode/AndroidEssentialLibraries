@@ -9,16 +9,26 @@
    : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
 2. [Alerter - Alert on the Top](https://github.com/Tapadoo/Alerter)
    : With simplicity in mind, the Alerter employs the builder pattern to facilitate easy integration into any app. A customisable Alert View is dynamically added to the Decor View of the Window, overlaying all content.
+3. [Flashbar](https://github.com/aritraroy/Flashbar)
+   : ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
    
 ## Avatars
    [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
    : An android amazing avatar anim in CollapsingToolbarLayout.
+   
+## Custom Views
+1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
+   : A customised EditText view serving the purpose of taking numeric One Time Password from a user. With stunning animation, and high customizability.
+2. [Android About Page](https://github.com/medyo/android-about-page)
+   : Create an awesome About Page for your Android App in 2 minutes
    
 ## Dialog
 1. [Material Dialog](https://github.com/afollestad/material-dialogs)
    : 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android
 2. [AestheticDialog](https://github.com/gabriel-TheCode/AestheticDialogs)
    : 📱 An Android Library for 💫fluid, 😍beautiful, 🎨custom Dialogs.
+3. [Morphing Material Dialogs](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
+   : An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
@@ -29,6 +39,12 @@
    : A Powerful AlphabetIndex FastScroller Library for Android's RecyclerView!
 4. [Expandable RecyclerView Library with Animation](https://github.com/pokercc/ExpandableRecyclerView)
    : ExpandableRecyclerView with smoothly animation.
+5. [Sectioned Header RecyclerView](https://github.com/crux-lab/sectioned-recycler-view)
+   : A library that allows using sections with sticky headers in RecyclerView.
+6. [Circular Layout Manager for RecyclerView](https://github.com/kapil93/Circular-Layout-Manager)
+   : A library for Android which essentially contains a Custom Layout Manager for Recycler View which lays out its child views in circular or elliptical fashion.
+7. [Recycler View Library](https://github.com/fondesa/recycler-view-divider)
+   : A library which configures a divider for a RecyclerView.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
@@ -53,6 +69,8 @@
    : Three material Dots Indicators for view pagers in Android!
 3. [Step Indicator](https://github.com/badoualy/stepper-indicator)
    : Step indicator for onboarding or simple viewpager
+4. [Page Transformer Help](https://github.com/OCNYang/PageTransformerHelp)
+   : This is a PageTransformer library for Android ViewPager;There are many custom PageTransformer styles.Be able to help you when you use ViewPager.
    
    
    
@@ -68,6 +86,6 @@ of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+furnished to do so, subject to the conditions:
    
    
