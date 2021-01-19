@@ -22,6 +22,10 @@
 2. [Android About Page](https://github.com/medyo/android-about-page)
    : Create an awesome About Page for your Android App in 2 minutes
    
+## Chart
+   [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
+   : A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
+   
 ## Dialog
 1. [Material Dialog](https://github.com/afollestad/material-dialogs)
    : 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android
