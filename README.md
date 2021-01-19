@@ -12,6 +12,10 @@
 3. [Flashbar](https://github.com/aritraroy/Flashbar)
    : ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
    
+## Animations
+   [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+   : Cute view animation collection.
+   
 ## Avatars
    [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
    : An android amazing avatar anim in CollapsingToolbarLayout.
@@ -33,6 +37,11 @@
    : 📱 An Android Library for 💫fluid, 😍beautiful, 🎨custom Dialogs.
 3. [Morphing Material Dialogs](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
    : An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
+   
+## Logger
+   [Logger](https://github.com/orhanobut/logger)
+   : ✔️ Simple, pretty and powerful logger for android
+   
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
