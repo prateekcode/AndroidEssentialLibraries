@@ -13,12 +13,18 @@
    : ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
    
 ## Animations
-   [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+1. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
    : Cute view animation collection.
+2. [Rotating Text](https://github.com/mdg-iitr/RotatingText)
+   : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
    
 ## Avatars
    [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
    : An android amazing avatar anim in CollapsingToolbarLayout.
+   
+## Buttons
+   [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
+   : A button to substitute the ProgressDialog
    
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
@@ -102,5 +108,7 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the conditions.
+
+```
    
    
