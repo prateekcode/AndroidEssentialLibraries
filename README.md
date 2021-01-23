@@ -23,8 +23,10 @@
    : An android amazing avatar anim in CollapsingToolbarLayout.
    
 ## Buttons
-   [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
+1. [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
    : A button to substitute the ProgressDialog
+2. [Elegant Number Button](https://github.com/ashik94vc/ElegantNumberButton)
+   : A simple Android library to implement a number counter with increment and decrement buttons.
    
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
