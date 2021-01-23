@@ -33,6 +33,8 @@
    : A customised EditText view serving the purpose of taking numeric One Time Password from a user. With stunning animation, and high customizability.
 2. [Android About Page](https://github.com/medyo/android-about-page)
    : Create an awesome About Page for your Android App in 2 minutes
+3. [Number Sliding Picker](https://github.com/sephiroth74/NumberSlidingPicker)
+   : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right.
    
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -78,6 +80,8 @@
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
    : A simple SearchView for Android based on Material Design
+2. [Search Dialog](https://github.com/mirrajabi/search-dialog)
+   : An awesome and customizable search dialog with built-in search options.
    
 ## TimelineView
    [Timeline-View](https://github.com/vipulasri/Timeline-View)
