@@ -17,6 +17,8 @@
    : Cute view animation collection.
 2. [Rotating Text](https://github.com/mdg-iitr/RotatingText)
    : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
+3. [Fab Filter](https://github.com/nikhilpanju/FabFilter)
+   : Android app to showcase complex UI/Animations with and without MotionLayout
    
 ## Avatars
    [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
@@ -78,6 +80,8 @@
    : A library for Android which essentially contains a Custom Layout Manager for Recycler View which lays out its child views in circular or elliptical fashion.
 7. [Recycler View Library](https://github.com/fondesa/recycler-view-divider)
    : A library which configures a divider for a RecyclerView.
+8. [Recycler View Enhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)
+   : Android Library to provide swipe, click and other functionality to RecyclerView
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
