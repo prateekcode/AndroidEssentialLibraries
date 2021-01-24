@@ -27,6 +27,8 @@
    : A button to substitute the ProgressDialog
 2. [Elegant Number Button](https://github.com/ashik94vc/ElegantNumberButton)
    : A simple Android library to implement a number counter with increment and decrement buttons.
+3. [Synth Android](https://github.com/CRED-CLUB/synth-android)
+   : Synth is CRED's inbuilt library for using Neumorphic components in your app.
    
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
