@@ -39,6 +39,8 @@
    : Create an awesome About Page for your Android App in 2 minutes
 3. [Number Sliding Picker](https://github.com/sephiroth74/NumberSlidingPicker)
    : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right.
+4. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
+   : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
    
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -88,6 +90,8 @@
    : A simple SearchView for Android based on Material Design
 2. [Search Dialog](https://github.com/mirrajabi/search-dialog)
    : An awesome and customizable search dialog with built-in search options.
+3. [Multi Search View](https://github.com/iammert/MultiSearchView)
+   : Yet another built-in animated search view for Android.
    
 ## TimelineView
    [Timeline-View](https://github.com/vipulasri/Timeline-View)
