@@ -21,8 +21,10 @@
    : Android app to showcase complex UI/Animations with and without MotionLayout
    
 ## Avatars
-   [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
+1.  [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
    : An android amazing avatar anim in CollapsingToolbarLayout.
+2. [Avatar View](https://github.com/vitorhugods/AvatarView)
+   : A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
    
 ## Buttons
 1. [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
@@ -41,6 +43,10 @@
    : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right.
 4. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
    : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
+5. [Scaling Layout](https://github.com/iammert/ScalingLayout)
+   : With Scaling Layout scale your layout on user interaction.
+6. [Expandable Layout](https://github.com/iammert/ExpandableLayout)
+   : Expandable LinearLayout
    
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -102,8 +108,10 @@
    : Extended Android Tab Layout with animated indicators that have continuous feedback.
   
 ## Tutorial for your App/Spotlight
-   [Spotlight](https://github.com/TakuSemba/Spotlight)
+1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
    : Android Library that lights items for tutorials or walk-throughs etc.
+2. [Material Intro View](https://github.com/iammert/MaterialIntroView)
+   : Material Intro View is a showcase android library.
 
 ## ViewPager Libraries
 1. [Looping ViewPager](https://github.com/kenilt/LoopingViewPager)
