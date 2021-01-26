@@ -34,6 +34,10 @@
 3. [Synth Android](https://github.com/CRED-CLUB/synth-android)
    : Synth is CRED's inbuilt library for using Neumorphic components in your app.
    
+## Bottom Navigation View
+   [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
+   : A nice looking Spotify like bottom navigation view
+   
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
    : A customised EditText view serving the purpose of taking numeric One Time Password from a user. With stunning animation, and high customizability.
