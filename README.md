@@ -76,6 +76,9 @@
    [Logger](https://github.com/orhanobut/logger)
    : ✔️ Simple, pretty and powerful logger for android
    
+## Pickers
+   [Value Picker](https://github.com/mars885/value-picker)
+   : An Android library that provides a simple and customizable ValuePicker.
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
