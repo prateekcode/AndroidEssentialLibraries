@@ -33,6 +33,9 @@
    : A simple Android library to implement a number counter with increment and decrement buttons.
 3. [Synth Android](https://github.com/CRED-CLUB/synth-android)
    : Synth is CRED's inbuilt library for using Neumorphic components in your app.
+4. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
+   : NiceSpinner is a re-implementation of the default Android's spinner, 
+   with a nice arrow animation and a different way to display its content.
    
 ## Bottom Navigation View
    [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
