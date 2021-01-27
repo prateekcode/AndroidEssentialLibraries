@@ -33,9 +33,6 @@
    : A simple Android library to implement a number counter with increment and decrement buttons.
 3. [Synth Android](https://github.com/CRED-CLUB/synth-android)
    : Synth is CRED's inbuilt library for using Neumorphic components in your app.
-4. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
-   : NiceSpinner is a re-implementation of the default Android's spinner, 
-   with a nice arrow animation and a different way to display its content.
    
 ## Bottom Navigation View
    [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
@@ -106,8 +103,13 @@
 3. [Multi Search View](https://github.com/iammert/MultiSearchView)
    : Yet another built-in animated search view for Android.
    
+## Spinners
+1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
+   : NiceSpinner is a re-implementation of the default Android's spinner, 
+   with a nice arrow animation and a different way to display its content.
+   
 ## TimelineView
-   [Timeline-View](https://github.com/vipulasri/Timeline-View)
+1. [Timeline-View](https://github.com/vipulasri/Timeline-View)
    : Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
    
 ## Tab Layout
@@ -131,6 +133,7 @@
    : This is a PageTransformer library for Android ViewPager;There are many custom PageTransformer styles.Be able to help you when you use ViewPager.
 5. [Material View Pager Dot Indicator](https://github.com/tommybuonomo/dotsindicator)
    : This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles ! It supports ViewPager and ViewPager2
+   
    
    
    
