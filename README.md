@@ -51,7 +51,13 @@
    : With Scaling Layout scale your layout on user interaction.
 6. [Expandable Layout](https://github.com/iammert/ExpandableLayout)
    : Expandable LinearLayout
-   
+7. [Shadow Layout](https://github.com/L-Briand/ShadowLayout)
+   : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of    the design. So, there it goes.
+8. [Arc Layout](https://github.com/florent37/ArcLayout)
+   : With Arc Layout explore new styles and approaches on material design
+9. [Custom Edit Text Outline Box](https://github.com/SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder)
+   : Same as an Outlined text fields presented in Material Design page but with some dynamic changes
+
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
    : A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.
@@ -63,6 +69,8 @@
    : 📱 An Android Library for 💫fluid, 😍beautiful, 🎨custom Dialogs.
 3. [Morphing Material Dialogs](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
    : An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
+4. [Modal Bottom Sheet Dialog Fragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)
+   : Modal bottom sheet dialog based on the Material Guidelines
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
@@ -77,8 +85,10 @@
    : ✔️ Simple, pretty and powerful logger for android
    
 ## Pickers
-   [Value Picker](https://github.com/mars885/value-picker)
+1. [Value Picker](https://github.com/mars885/value-picker)
    : An Android library that provides a simple and customizable ValuePicker.
+2. [Color Picker](https://github.com/side-codes/andColorPicker)
+   : 🥑 Handy, 🐍 flexible, and ⚡ lightning-fast Android color picker views and utilities
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
@@ -97,6 +107,8 @@
    : A library which configures a divider for a RecyclerView.
 8. [Recycler View Enhanced](https://github.com/nikhilpanju/RecyclerViewEnhanced)
    : Android Library to provide swipe, click and other functionality to RecyclerView
+9. [RecyclerView Extensions](https://github.com/Doist/RecyclerViewExtensions)
+   : RecyclerViewExtensions is a collection of self-contained and reusable extensions for RecyclerView
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
