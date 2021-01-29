@@ -71,6 +71,8 @@
    : An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
 4. [Modal Bottom Sheet Dialog Fragment](https://github.com/Commit451/ModalBottomSheetDialogFragment)
    : Modal bottom sheet dialog based on the Material Guidelines
+5. [Morphing Material Dialog](https://github.com/AdityaAnand1/Morphing-Material-Dialogs)
+   : Material dialog ❤️ morphing animation. An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
@@ -83,6 +85,14 @@
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
    : ✔️ Simple, pretty and powerful logger for android
+   
+## Menu
+   [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
+   : Shows Material popup menus grouped in sections & more
+   
+## Navigaton View
+   [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
+   : A simple Floating Action Button that shows an anchored Navigation View
    
 ## Pickers
 1. [Value Picker](https://github.com/mars885/value-picker)
@@ -111,6 +121,8 @@
    : RecyclerViewExtensions is a collection of self-contained and reusable extensions for RecyclerView
 10.[Inbox RecyclerView](https://github.com/saket/InboxRecyclerView)
    : Build expandable descendant navigation, inspired by Google Inbox
+11.[Android Fast Scroll](https://github.com/zhanghai/AndroidFastScroll)
+   : Fast scroll for Android RecyclerView and more.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
