@@ -109,6 +109,8 @@
    : Android Library to provide swipe, click and other functionality to RecyclerView
 9. [RecyclerView Extensions](https://github.com/Doist/RecyclerViewExtensions)
    : RecyclerViewExtensions is a collection of self-contained and reusable extensions for RecyclerView
+10.[Inbox RecyclerView](https://github.com/saket/InboxRecyclerView)
+   : Build expandable descendant navigation, inspired by Google Inbox
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
