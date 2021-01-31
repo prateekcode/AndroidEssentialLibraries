@@ -142,6 +142,10 @@
 3. [Multi Search View](https://github.com/iammert/MultiSearchView)
    : Yet another built-in animated search view for Android.
    
+## Shimmer Effect
+   [AndroidVeil](https://github.com/skydoves/AndroidVeil)
+   : 🎭 An easy, flexible way to implement veil skeletons and shimmering effect for Android.
+   
 ## Spinners
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
    : NiceSpinner is a re-implementation of the default Android's spinner, 
