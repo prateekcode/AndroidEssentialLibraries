@@ -40,6 +40,10 @@
    [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
    : A nice looking Spotify like bottom navigation view
    
+## Bottom Sheet
+   [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
+   : Another BottomSheetDialog for Android
+   
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
    : A customised EditText view serving the purpose of taking numeric One Time Password from a user. With stunning animation, and high customizability.
@@ -58,10 +62,10 @@
 8. [Arc Layout](https://github.com/florent37/ArcLayout)
    : With Arc Layout explore new styles and approaches on material design
 9. [Custom Edit Text Outline Box](https://github.com/SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder)
-   : Same as an Outlined text fields presented in Material Design page but with some dynamic changes
-10.[Neumorphism](https://github.com/fornewid/neumorphism)
+   : Same as an Outlined text fields presented in Material Design page but with some dynamic changes 
+10. [Neumorphism](https://github.com/fornewid/neumorphism)
    : Try to Neumorphism in Android (Just experimental!! 🧪)
-11.[Slide to Unlock](https://github.com/cortinico/slidetoact)
+11. [Slide to Unlock](https://github.com/cortinico/slidetoact)
    : A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
 12. [Vertical Stepper Form](https://github.com/ernestoyaquello/VerticalStepperForm)
    : Vertical Stepper Form Library for Android. It follows Google Material Design guidelines.
@@ -129,9 +133,9 @@
    : Android Library to provide swipe, click and other functionality to RecyclerView
 9. [RecyclerView Extensions](https://github.com/Doist/RecyclerViewExtensions)
    : RecyclerViewExtensions is a collection of self-contained and reusable extensions for RecyclerView
-10.[Inbox RecyclerView](https://github.com/saket/InboxRecyclerView)
+10. [Inbox RecyclerView](https://github.com/saket/InboxRecyclerView)
    : Build expandable descendant navigation, inspired by Google Inbox
-11.[Android Fast Scroll](https://github.com/zhanghai/AndroidFastScroll)
+11. [Android Fast Scroll](https://github.com/zhanghai/AndroidFastScroll)
    : Fast scroll for Android RecyclerView and more.
 
 ## Search Libraries
