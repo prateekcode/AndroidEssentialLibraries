@@ -182,6 +182,10 @@
    : Android Library that lights items for tutorials or walk-throughs etc.
 2. [Material Intro View](https://github.com/iammert/MaterialIntroView)
    : Material Intro View is a showcase android library.
+   
+## VideoPlayer Library
+   [Exo Player Library](https://github.com/google/ExoPlayer)
+   : An extensible media player for Android
 
 ## ViewPager Libraries
 1. [Looping ViewPager](https://github.com/kenilt/LoopingViewPager)
