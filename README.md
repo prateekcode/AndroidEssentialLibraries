@@ -112,6 +112,10 @@
    [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
    : A simple Floating Action Button that shows an anchored Navigation View
    
+## Permissions
+   [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
+   : A simple library to make it easy requesting permissions in Android using Kotlin Coroutines.
+   
 ## Pickers
 1. [Value Picker](https://github.com/mars885/value-picker)
    : An Android library that provides a simple and customizable ValuePicker.
