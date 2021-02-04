@@ -157,8 +157,10 @@
    : Yet another built-in animated search view for Android.
    
 ## Shimmer Effect
-   [AndroidVeil](https://github.com/skydoves/AndroidVeil)
+1. [AndroidVeil](https://github.com/skydoves/AndroidVeil)
    : 🎭 An easy, flexible way to implement veil skeletons and shimmering effect for Android.
+2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon)
+   : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
    
 ## Spinners
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
