@@ -147,6 +147,8 @@
    : Build expandable descendant navigation, inspired by Google Inbox
 11. [Android Fast Scroll](https://github.com/zhanghai/AndroidFastScroll)
    : Fast scroll for Android RecyclerView and more.
+12. [Smart Recycler Adapter](https://github.com/manneohlund/smart-recycler-adapter)
+   : Never code any boilerplate RecyclerAdapter again! This library will make it easy and painless to map your data item with a target ViewHolder.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
