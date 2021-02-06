@@ -73,6 +73,8 @@
    : A simple 'Slide to Unlock' Material widget for Android, written in Kotlin 📱🎨🦄
 12. [Vertical Stepper Form](https://github.com/ernestoyaquello/VerticalStepperForm)
    : Vertical Stepper Form Library for Android. It follows Google Material Design guidelines.
+13. [Android Step View](https://github.com/acefalobi/android-stepper)
+   : A library for creating a wizard-like step-through user interface that uses navigation components and menus for displaying steps with advanced customization.
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -149,6 +151,8 @@
    : Fast scroll for Android RecyclerView and more.
 12. [Smart Recycler Adapter](https://github.com/manneohlund/smart-recycler-adapter)
    : Never code any boilerplate RecyclerAdapter again! This library will make it easy and painless to map your data item with a target ViewHolder.
+13. [Indicator Fast Scroll](https://github.com/reddit/IndicatorFastScroll)
+   : Android library providing a simple UI control for scrolling through RecyclerViews
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
