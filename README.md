@@ -104,8 +104,12 @@
    
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
-   : ✔️ Simple, pretty and powerful logger for android
-   
+   : ✔️ Simple, pretty and powerful logger for android 
+
+## NetWork
+   [RetroFit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)   
+   : A networking library
+
 ## Menu
    [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
    : Shows Material popup menus grouped in sections & more
@@ -125,6 +129,7 @@
    : 🥑 Handy, 🐍 flexible, and ⚡ lightning-fast Android color picker views and utilities
 3. [Image Picker](https://github.com/Dhaval2404/ImagePicker)
    : 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+
 
 ## RecyclerView Libraries
 1. [RecyclerView Tree Library](https://github.com/TellH/RecyclerTreeView)
