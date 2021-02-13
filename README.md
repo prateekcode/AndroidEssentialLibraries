@@ -97,6 +97,8 @@
    : Material dialog ❤️ morphing animation. An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
 6. [Dialog Sheet](https://github.com/marcoscgdev/DialogSheet)
    : An Android library to create fully material designed bottom dialogs similar to the Android Pay app.
+7. [Dialog Plus](https://github.com/orhanobut/dialogplus)
+   : Advanced dialog solution for android
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
