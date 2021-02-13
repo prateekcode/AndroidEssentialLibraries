@@ -48,6 +48,10 @@
    [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
    : Another BottomSheetDialog for Android
    
+## Compressor
+   [Image Compress](https://github.com/zetbaitsu/Compressor)
+   : Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
+   
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
    : A customised EditText view serving the purpose of taking numeric One Time Password from a user. With stunning animation, and high customizability.
