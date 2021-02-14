@@ -164,6 +164,8 @@
    : Never code any boilerplate RecyclerAdapter again! This library will make it easy and painless to map your data item with a target ViewHolder.
 13. [Indicator Fast Scroll](https://github.com/reddit/IndicatorFastScroll)
    : Android library providing a simple UI control for scrolling through RecyclerViews
+14. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator)
+   : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
