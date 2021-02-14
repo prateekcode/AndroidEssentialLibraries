@@ -135,6 +135,10 @@
    : 🥑 Handy, 🐍 flexible, and ⚡ lightning-fast Android color picker views and utilities
 3. [Image Picker](https://github.com/Dhaval2404/ImagePicker)
    : 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+   
+## Progress Bar
+   [ProgressView](https://github.com/skydoves/ProgressView)
+   : 🌊 A polished and flexible ProgressView, fully customizable with animations.
 
 
 ## RecyclerView Libraries
