@@ -195,8 +195,10 @@
    : Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
    
 ## Tab Layout
-   [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
+1. [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
    : Extended Android Tab Layout with animated indicators that have continuous feedback.
+2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
+   : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
   
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
