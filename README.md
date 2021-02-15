@@ -21,9 +21,11 @@
    : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
 3. [Fab Filter](https://github.com/nikhilpanju/FabFilter)
    : Android app to showcase complex UI/Animations with and without MotionLayout
+4. [SpinKit](https://github.com/nikhilpanju/FabFilter)
+   : Android loading animations(I wrote a android edition according SpinKit)
    
 ## Android Scanner
-   [Scan Library](https://github.com/jhansireddy/AndroidScannerDemo)
+   [Scan Library](https://github.com/ybq/Android-SpinKit)
    : ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
    
 ## Avatars
