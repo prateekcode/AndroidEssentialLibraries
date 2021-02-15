@@ -170,6 +170,8 @@
    : Android library providing a simple UI control for scrolling through RecyclerViews
 14. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator)
    : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+15. [Base RecyclerView Adapter](https://github.com/skydoves/BaseRecyclerViewAdapter)
+   : ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
