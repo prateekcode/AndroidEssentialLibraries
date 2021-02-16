@@ -174,6 +174,8 @@
    : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
 15. [Base RecyclerView Adapter](https://github.com/skydoves/BaseRecyclerViewAdapter)
    : ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
+16. [One Adapter](https://github.com/ironSource/OneAdapter)
+   : A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states (paging, empty...), events (clicking, swiping...), and more.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
