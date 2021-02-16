@@ -113,6 +113,10 @@
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
    : ✔️ Simple, pretty and powerful logger for android 
+   
+## Menu
+   [PowerMenu](https://github.com/skydoves/PowerMenu)
+   : 🔥 The powerful and easiest way to implement modern material popup menu. PowerMenu can be fully customized and used for popup dialogs.
 
 ## NetWork
    [RetroFit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)   
