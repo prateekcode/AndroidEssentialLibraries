@@ -115,17 +115,15 @@
    : ✔️ Simple, pretty and powerful logger for android 
    
 ## Menu
-   [PowerMenu](https://github.com/skydoves/PowerMenu)
+   1. [PowerMenu](https://github.com/skydoves/PowerMenu)
    : 🔥 The powerful and easiest way to implement modern material popup menu. PowerMenu can be fully customized and used for popup dialogs.
+   2.  [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
+   : Shows Material popup menus grouped in sections & more
 
 ## NetWork
    [RetroFit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)   
    : A networking library
 
-## Menu
-   [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
-   : Shows Material popup menus grouped in sections & more
-   
 ## Navigaton View
    [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
    : A simple Floating Action Button that shows an anchored Navigation View
