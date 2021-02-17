@@ -81,6 +81,8 @@
    : Vertical Stepper Form Library for Android. It follows Google Material Design guidelines.
 13. [Android Step View](https://github.com/acefalobi/android-stepper)
    : A library for creating a wizard-like step-through user interface that uses navigation components and menus for displaying steps with advanced customization.
+14. [Custom Floating Action Button](https://github.com/robertlevonyan/customFloatingActionButton)
+   : This view is for replacement of standard Floating Action Button from Google Support Library. It is easy to use, customizable and you can also add text to button
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -211,6 +213,10 @@
    : Extended Android Tab Layout with animated indicators that have continuous feedback.
 2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
    : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
+   
+## Tooltips
+   [Tooltips](https://github.com/tomergoldst/tooltips)
+   : Simple to use library for android, enabling to add a tooltip near any view with ease
   
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
