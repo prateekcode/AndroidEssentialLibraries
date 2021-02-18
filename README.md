@@ -43,11 +43,11 @@
    : Synth is CRED's inbuilt library for using Neumorphic components in your app.
    
 ## Bottom Navigation View
-   [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
+1. [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
    : A nice looking Spotify like bottom navigation view
-   [Bubble Navigation]https://github.com/gauravk95/bubble-navigation)
+2. [Bubble Navigation](https://github.com/gauravk95/bubble-navigation)
    : A light-weight library to easily make beautiful Navigation Bars with a ton of 🎨 customization options.
-   [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)
+3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)
    : A customizable and easy to use bottom bar view with sleek animations.
    
 ## Bottom Sheet
