@@ -45,6 +45,10 @@
 ## Bottom Navigation View
    [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
    : A nice looking Spotify like bottom navigation view
+   [Bubble Navigation]https://github.com/gauravk95/bubble-navigation)
+   : A light-weight library to easily make beautiful Navigation Bars with a ton of 🎨 customization options.
+   [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)
+   : A customizable and easy to use bottom bar view with sleek animations.
    
 ## Bottom Sheet
    [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
