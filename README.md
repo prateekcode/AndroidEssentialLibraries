@@ -137,8 +137,9 @@
    : A simple Floating Action Button that shows an anchored Navigation View
    
 ## Permissions
-   [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
+1. [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
    : A simple library to make it easy requesting permissions in Android using Kotlin Coroutines.
+2. [Android Ask Permissions](https://github.com/memishood/android-ask-permissions) : This library helps to easily check and request permissions
    
 ## Pickers
 1. [Value Picker](https://github.com/mars885/value-picker)
@@ -221,8 +222,10 @@
    : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
    
 ## Tooltips
-   [Tooltips](https://github.com/tomergoldst/tooltips)
+1. [Tooltips](https://github.com/tomergoldst/tooltips)
    : Simple to use library for android, enabling to add a tooltip near any view with ease
+2. [Android Simple Tooltips](https://github.com/douglasjunior/android-simple-tooltip)
+   : A simple library based on PopupWindow to create Tooltips on Android. 💚
   
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
