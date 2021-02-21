@@ -89,6 +89,8 @@
    : This view is for replacement of standard Floating Action Button from Google Support Library. It is easy to use, customizable and you can also add text to button.
 15. [Material Chip View](https://github.com/robertlevonyan/materialChipView)
    : Material Chip view. Can be used as tags for categories, contacts or creating text clouds. This library can be an alternative for Material Chip from Jetpack library.
+16. [Expandable Layout](https://github.com/cachapa/ExpandableLayout)
+   : An expandable layout container for Android
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
