@@ -198,6 +198,7 @@
    : An awesome and customizable search dialog with built-in search options.
 3. [Multi Search View](https://github.com/iammert/MultiSearchView)
    : Yet another built-in animated search view for Android.
+4. [Material Search Views](https://github.com/Mauker1/MaterialSearchView) : Android SearchView based on Material Design guidelines. The MaterialSearchView will overlay a Toolbar or ActionBar as well as display a ListView for the user to show suggested or recent searches.
    
 ## Shimmer Effect
 1. [AndroidVeil](https://github.com/skydoves/AndroidVeil)
