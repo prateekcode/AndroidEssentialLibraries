@@ -189,6 +189,7 @@
    : ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
 16. [One Adapter](https://github.com/ironSource/OneAdapter)
    : A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states (paging, empty...), events (clicking, swiping...), and more.
+17. [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) : MultiSnapRecyclerView easily provides a snapping feature to your recycler view
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
