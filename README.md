@@ -152,8 +152,9 @@
 4. [Picker](https://github.com/Parag2385/Picker) : A CameraX based WhatsApp Style Image-Video Picker
    
 ## Progress Bar
-   [ProgressView](https://github.com/skydoves/ProgressView)
+1. [ProgressView](https://github.com/skydoves/ProgressView)
    : 🌊 A polished and flexible ProgressView, fully customizable with animations.
+2. [MultiProgressBar](https://github.com/GeniusRUS/MultiProgressBar) : This library makes it possible to display a progress bar, as in Instagram Stories, without much effort.
 
 
 ## RecyclerView Libraries
