@@ -47,8 +47,8 @@
    : A nice looking Spotify like bottom navigation view
 2. [Bubble Navigation](https://github.com/gauravk95/bubble-navigation)
    : A light-weight library to easily make beautiful Navigation Bars with a ton of 🎨 customization options.
-3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)
-   : A customizable and easy to use bottom bar view with sleek animations.
+3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) : A customizable and easy to use bottom bar view with sleek animations.
+4. [ExpandableBottomNavigationBar](https://github.com/st235/ExpandableBottomBar) : A new way to implement navigation in your app 🏎 
    
 ## Bottom Sheet
    [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
@@ -89,8 +89,10 @@
    : This view is for replacement of standard Floating Action Button from Google Support Library. It is easy to use, customizable and you can also add text to button.
 15. [Material Chip View](https://github.com/robertlevonyan/materialChipView)
    : Material Chip view. Can be used as tags for categories, contacts or creating text clouds. This library can be an alternative for Material Chip from Jetpack library.
-16. [Expandable Layout](https://github.com/cachapa/ExpandableLayout)
-   : An expandable layout container for Android
+16. [Expandable Layout](https://github.com/cachapa/ExpandableLayout) : An expandable layout container for Android
+17. [WaveView](https://github.com/john990/WaveView) : A wave view of android,can be used as progress bar.
+18. [CarouselView](https://github.com/alirezat775/carousel-view) : Useful library for showing list in sliding mode or carousel mode
+
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -191,6 +193,7 @@
 16. [One Adapter](https://github.com/ironSource/OneAdapter)
    : A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states (paging, empty...), events (clicking, swiping...), and more.
 17. [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) : MultiSnapRecyclerView easily provides a snapping feature to your recycler view
+18. [Gesture Recycler](https://github.com/thesurix/gesture-recycler) : This library provides swipe & drag and drop support for RecyclerView
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
