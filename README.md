@@ -194,6 +194,7 @@
    : A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states (paging, empty...), events (clicking, swiping...), and more.
 17. [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) : MultiSnapRecyclerView easily provides a snapping feature to your recycler view
 18. [Gesture Recycler](https://github.com/thesurix/gesture-recycler) : This library provides swipe & drag and drop support for RecyclerView
+19. [LoopingLayout](https://github.com/BeksOmega/looping-layout) : The Looping Layout Project is a LayoutManager for the Android RecyclerView. With this project you can add looping/circular/endless functionality to a RecyclerView.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
