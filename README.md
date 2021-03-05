@@ -51,8 +51,8 @@
 4. [ExpandableBottomNavigationBar](https://github.com/st235/ExpandableBottomBar) : A new way to implement navigation in your app 🏎 
    
 ## Bottom Sheet
-   [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
-   : Another BottomSheetDialog for Android
+1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
+2. [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) : Android native BottomSheet on steroids 💪
    
 ## Compressor
    [Image Compress](https://github.com/zetbaitsu/Compressor)
@@ -256,8 +256,8 @@
    : Step indicator for onboarding or simple viewpager
 4. [Page Transformer Help](https://github.com/OCNYang/PageTransformerHelp)
    : This is a PageTransformer library for Android ViewPager;There are many custom PageTransformer styles.Be able to help you when you use ViewPager.
-5. [Material View Pager Dot Indicator](https://github.com/tommybuonomo/dotsindicator)
-   : This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles ! It supports ViewPager and ViewPager2
+5. [Material View Pager Dot Indicator](https://github.com/tommybuonomo/dotsindicator) : This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles ! It supports ViewPager and ViewPager2
+6. [ViewPager Dots](https://github.com/afollestad/viewpagerdots) : This library provides a very small, compact, Kotlin-based implementation for ViewPager dots. The dots can of course be switched out for whatever type of Drawable you wish. The animation can be customized as well.
    
    
    
