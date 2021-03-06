@@ -258,6 +258,7 @@
    : This is a PageTransformer library for Android ViewPager;There are many custom PageTransformer styles.Be able to help you when you use ViewPager.
 5. [Material View Pager Dot Indicator](https://github.com/tommybuonomo/dotsindicator) : This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles ! It supports ViewPager and ViewPager2
 6. [ViewPager Dots](https://github.com/afollestad/viewpagerdots) : This library provides a very small, compact, Kotlin-based implementation for ViewPager dots. The dots can of course be switched out for whatever type of Drawable you wish. The animation can be customized as well.
+7. [CircleIndicator](https://github.com/ongakuer/CircleIndicator) : A lightweight indicator like in nexus 5 launcher
    
    
    
