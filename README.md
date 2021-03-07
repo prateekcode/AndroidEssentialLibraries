@@ -21,8 +21,8 @@
    : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
 3. [Fab Filter](https://github.com/nikhilpanju/FabFilter)
    : Android app to showcase complex UI/Animations with and without MotionLayout
-4. [SpinKit](https://github.com/nikhilpanju/FabFilter)
-   : Android loading animations(I wrote a android edition according SpinKit)
+4. [SpinKit](https://github.com/nikhilpanju/FabFilter) : Android loading animations(I wrote a android edition according SpinKit)
+5. [TransformationLayout](https://github.com/skydoves/TransformationLayout) : Transform into a different view or activity using morphing animations. Using Transformation motions of new material version.
    
 ## Android Scanner
    [Scan Library](https://github.com/ybq/Android-SpinKit)
