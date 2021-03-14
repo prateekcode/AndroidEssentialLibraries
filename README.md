@@ -53,6 +53,7 @@
 ## Bottom Sheet
 1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
 2. [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) : Android native BottomSheet on steroids 💪
+3. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
    
 ## Compressor
    [Image Compress](https://github.com/zetbaitsu/Compressor)
@@ -115,6 +116,7 @@
    : An Android library to create fully material designed bottom dialogs similar to the Android Pay app.
 7. [Dialog Plus](https://github.com/orhanobut/dialogplus) : Advanced dialog solution for android
 8. [Elegant Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
+9. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
