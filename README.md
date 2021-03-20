@@ -126,6 +126,9 @@
 3. [Picasso](https://github.com/square/picasso)
    : A powerful image downloading and caching library for Android
    
+## Indicators
+1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+   
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
    : ✔️ Simple, pretty and powerful logger for android 
@@ -219,6 +222,7 @@
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
    : NiceSpinner is a re-implementation of the default Android's spinner, 
    with a nice arrow animation and a different way to display its content.
+2. [Multiple Select Spinner](https://github.com/pratikbutani/MultiSelectSpinner) : Android - Select Multiple Items from Spinner with Filtration.
    
 ## Startup Screen
    [App Intro](https://github.com/AppIntro/AppIntro)
