@@ -49,6 +49,7 @@
    : A light-weight library to easily make beautiful Navigation Bars with a ton of 🎨 customization options.
 3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) : A customizable and easy to use bottom bar view with sleek animations.
 4. [ExpandableBottomNavigationBar](https://github.com/st235/ExpandableBottomBar) : A new way to implement navigation in your app 🏎 
+5. [Bubble Tab Bar](https://github.com/akshay2211/BubbleTabBar) : BubbleTabBar is bottom navigation bar with customizable bubble like tabs
    
 ## Bottom Sheet
 1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
