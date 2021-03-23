@@ -129,6 +129,9 @@
    
 ## Indicators
 1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+
+## JetPack Libraries
+   [Compose Icons](https://github.com/DevSrSouza/compose-icons) : Compose icons is a pack of libraries that provide well known Icon Packs to use in Jetpack Compose Multiplatform. The library usage is inspired by Compose Material Icons.
    
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
@@ -139,9 +142,13 @@
    : 🔥 The powerful and easiest way to implement modern material popup menu. PowerMenu can be fully customized and used for popup dialogs.
    2.  [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
    : Shows Material popup menus grouped in sections & more
+   
+## Misc
+   1. [Form Valdidation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
 
 ## Network
-   [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects) : A networking library
+   1. [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects) : A networking library
+   2. [Sandwich](https://github.com/skydoves/Sandwich) : A lightweight and standardized Android network response interface for handling successful data and error responses.
 
 ## Navigaton View
    [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
