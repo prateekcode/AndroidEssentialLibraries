@@ -168,6 +168,7 @@
    : 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
 4. [Picker](https://github.com/Parag2385/Picker) : A CameraX based WhatsApp Style Image-Video Picker
 5. [Number Picker](https://github.com/ShawnLin013/NumberPicker) : The android library that provides a simple and customizable NumberPicker.
+6. [Number Sliding Picker](https://github.com/sephiroth74/NumberSlidingPicker) : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right
    
 ## Progress Bar
 1. [ProgressView](https://github.com/skydoves/ProgressView)
