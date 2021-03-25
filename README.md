@@ -96,6 +96,7 @@
 18. [CarouselView](https://github.com/alirezat775/carousel-view) : Useful library for showing list in sliding mode or carousel mode
 19. [Material Cab](https://github.com/afollestad/material-cab) : 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
 20. [SocialView](https://github.com/hendraanggrian/socialview) : Android TextView and EditText with hashtag, mention, and hyperlink support
+21. [SingleDateAndTime](https://github.com/florent37/SingleDateAndTimePicker) : You can now select a date and a time with only one widget !
 
 
 ## Chart
