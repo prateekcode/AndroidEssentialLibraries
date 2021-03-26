@@ -55,6 +55,7 @@
 1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
 2. [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) : Android native BottomSheet on steroids 💪
 3. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
+4. [Rate Bottom Sheet](https://github.com/lopspower/RateBottomSheet) : This an Android library to help to promote your Android App by prompting users to rate your app in the Google Play Store with a material design friendly BottomSheet.
    
 ## Compressor
    [Image Compress](https://github.com/zetbaitsu/Compressor)
