@@ -34,6 +34,9 @@
 2. [Avatar View](https://github.com/vitorhugods/AvatarView)
    : A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
    
+## App Rating
+1. [Awesome App Rating](https://github.com/SuddenH4X/awesome-app-rating) : A highly customizable Android library providing a dialog, which asks the user to rate the app. If the user rates below the defined threshold, the dialog will show a feedback form or ask the user to mail his feedback. Otherwise it will ask the user to rate the app in the Google Play Store.
+   
 ## Buttons
 1. [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
    : A button to substitute the ProgressDialog
