@@ -23,6 +23,7 @@
    : Android app to showcase complex UI/Animations with and without MotionLayout
 4. [SpinKit](https://github.com/nikhilpanju/FabFilter) : Android loading animations(I wrote a android edition according SpinKit)
 5. [TransformationLayout](https://github.com/skydoves/TransformationLayout) : Transform into a different view or activity using morphing animations. Using Transformation motions of new material version.
+6. [ViewAnimator](https://github.com/florent37/ViewAnimator) : A fluent Android animation library ! 
    
 ## Android Scanner
    [Scan Library](https://github.com/ybq/Android-SpinKit)
@@ -264,8 +265,9 @@
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
    : Android Library that lights items for tutorials or walk-throughs etc.
-2. [Material Intro View](https://github.com/iammert/MaterialIntroView)
-   : Material Intro View is a showcase android library.
+2. [Material Intro View](https://github.com/iammert/MaterialIntroView) : Material Intro View is a showcase android library.
+3. [Bubble Showcase](https://github.com/ECLaboratorio/BubbleShowCase-Android) : BubbleShowCase is a framework that let you to use informative bubbles to help your users pointing out different App features.
+   
    
 ## VideoPlayer Library
    [Exo Player Library](https://github.com/google/ExoPlayer)
