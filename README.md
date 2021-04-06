@@ -124,14 +124,17 @@
 7. [Dialog Plus](https://github.com/orhanobut/dialogplus) : Advanced dialog solution for android
 8. [Elegant Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
 9. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
+
+## Expand The Views
+1. [ExpandableCardView](https://github.com/AleSpero/ExpandableCardView) : An Android library that lets you create in a simple, fast and hassle-free way a CardView in which you can insert your custom layout and just expand and collapse without even writing a single Java/Kotlin line of code.
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
    : An image loading library for Android backed by Kotlin Coroutines
 2. [Glide](https://github.com/bumptech/glide)
    : An image loading and caching library for Android focused on smooth scrolling
-3. [Picasso](https://github.com/square/picasso)
-   : A powerful image downloading and caching library for Android
+3. [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android
+4. [Android Scrolling ImageView](https://github.com/Q42/AndroidScrollingImageView) : An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.   
    
 ## Indicators
 1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
