@@ -179,6 +179,7 @@
 5. [Number Picker](https://github.com/ShawnLin013/NumberPicker) : The android library that provides a simple and customizable NumberPicker.
 6. [Number Sliding Picker](https://github.com/sephiroth74/NumberSlidingPicker) : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right
 7. [Pick Image](https://github.com/jrvansuita/PickImage) : This is an Android project. It shows a DialogFragment with Camera or Gallery options. The user can choose from which provider wants to pick an image.
+8. [Media Picker](https://github.com/robertlevonyan/MediaPicker) : Easy customizable picker for all your needs in Android application
    
 ## Progress Bar
 1. [ProgressView](https://github.com/skydoves/ProgressView)
