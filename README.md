@@ -237,8 +237,8 @@
 ## Shimmer Effect
 1. [AndroidVeil](https://github.com/skydoves/AndroidVeil)
    : 🎭 An easy, flexible way to implement veil skeletons and shimmering effect for Android.
-2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon)
-   : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
+2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon) : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
+3. [LoaderViewLibrary](https://github.com/elye/loaderviewlibrary): Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded
    
 ## Spinners
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
@@ -247,8 +247,8 @@
 2. [Multiple Select Spinner](https://github.com/pratikbutani/MultiSelectSpinner) : Android - Select Multiple Items from Spinner with Filtration.
    
 ## Startup Screen
-   [App Intro](https://github.com/AppIntro/AppIntro)
-   : Make a cool intro for your Android app.
+1. [App Intro](https://github.com/AppIntro/AppIntro) : Make a cool intro for your Android app.
+2. [Welcome-Android](https://github.com/stephentuso/welcome-android) : An easy to use and customizable welcome screen for Android apps. 
    
 ## TimelineView
 1. [Timeline-View](https://github.com/vipulasri/Timeline-View)
