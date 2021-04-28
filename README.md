@@ -21,8 +21,9 @@
    : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
 3. [Fab Filter](https://github.com/nikhilpanju/FabFilter)
    : Android app to showcase complex UI/Animations with and without MotionLayout
-4. [SpinKit](https://github.com/nikhilpanju/FabFilter)
-   : Android loading animations(I wrote a android edition according SpinKit)
+4. [SpinKit](https://github.com/nikhilpanju/FabFilter) : Android loading animations(I wrote a android edition according SpinKit)
+5. [TransformationLayout](https://github.com/skydoves/TransformationLayout) : Transform into a different view or activity using morphing animations. Using Transformation motions of new material version.
+6. [ViewAnimator](https://github.com/florent37/ViewAnimator) : A fluent Android animation library ! 
    
 ## Android Scanner
    [Scan Library](https://github.com/ybq/Android-SpinKit)
@@ -34,6 +35,9 @@
 2. [Avatar View](https://github.com/vitorhugods/AvatarView)
    : A circular Image View with a lot of perks. Including progress animation and highlight state with borders and gradient color.
    
+## App Rating
+1. [Awesome App Rating](https://github.com/SuddenH4X/awesome-app-rating) : A highly customizable Android library providing a dialog, which asks the user to rate the app. If the user rates below the defined threshold, the dialog will show a feedback form or ask the user to mail his feedback. Otherwise it will ask the user to rate the app in the Google Play Store.
+   
 ## Buttons
 1. [Loading Button Android](https://github.com/leandroBorgesFerreira/LoadingButtonAndroid)
    : A button to substitute the ProgressDialog
@@ -43,16 +47,23 @@
    : Synth is CRED's inbuilt library for using Neumorphic components in your app.
    
 ## Bottom Navigation View
-   [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
+1. [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
    : A nice looking Spotify like bottom navigation view
-   [Bubble Navigation]https://github.com/gauravk95/bubble-navigation)
+2. [Bubble Navigation](https://github.com/gauravk95/bubble-navigation)
    : A light-weight library to easily make beautiful Navigation Bars with a ton of 🎨 customization options.
-   [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar)
-   : A customizable and easy to use bottom bar view with sleek animations.
+3. [AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) : A customizable and easy to use bottom bar view with sleek animations.
+4. [ExpandableBottomNavigationBar](https://github.com/st235/ExpandableBottomBar) : A new way to implement navigation in your app 🏎 
+5. [Bubble Tab Bar](https://github.com/akshay2211/BubbleTabBar) : BubbleTabBar is bottom navigation bar with customizable bubble like tabs
    
 ## Bottom Sheet
-   [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog)
-   : Another BottomSheetDialog for Android
+1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
+2. [Super Bottom Sheet](https://github.com/andrefrsousa/SuperBottomSheet) : Android native BottomSheet on steroids 💪
+3. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
+4. [Rate Bottom Sheet](https://github.com/lopspower/RateBottomSheet) : This an Android library to help to promote your Android App by prompting users to rate your app in the Google Play Store with a material design friendly BottomSheet.
+   
+## Compressor
+   [Image Compress](https://github.com/zetbaitsu/Compressor)
+   : Compressor is a lightweight and powerful android image compression library. Compressor will allow you to compress large photos into smaller sized photos with very less or negligible loss in quality of the image.
    
 ## Custom Views
 1. [Pass Code Text](https://github.com/swapnil1104/PassCodeText)
@@ -81,6 +92,17 @@
    : Vertical Stepper Form Library for Android. It follows Google Material Design guidelines.
 13. [Android Step View](https://github.com/acefalobi/android-stepper)
    : A library for creating a wizard-like step-through user interface that uses navigation components and menus for displaying steps with advanced customization.
+14. [Custom Floating Action Button](https://github.com/robertlevonyan/customFloatingActionButton)
+   : This view is for replacement of standard Floating Action Button from Google Support Library. It is easy to use, customizable and you can also add text to button.
+15. [Material Chip View](https://github.com/robertlevonyan/materialChipView)
+   : Material Chip view. Can be used as tags for categories, contacts or creating text clouds. This library can be an alternative for Material Chip from Jetpack library.
+16. [Expandable Layout](https://github.com/cachapa/ExpandableLayout) : An expandable layout container for Android
+17. [WaveView](https://github.com/john990/WaveView) : A wave view of android,can be used as progress bar.
+18. [CarouselView](https://github.com/alirezat775/carousel-view) : Useful library for showing list in sliding mode or carousel mode
+19. [Material Cab](https://github.com/afollestad/material-cab) : 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
+20. [SocialView](https://github.com/hendraanggrian/socialview) : Android TextView and EditText with hashtag, mention, and hyperlink support
+21. [SingleDateAndTime](https://github.com/florent37/SingleDateAndTimePicker) : You can now select a date and a time with only one widget !
+
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
@@ -99,34 +121,52 @@
    : Material dialog ❤️ morphing animation. An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.
 6. [Dialog Sheet](https://github.com/marcoscgdev/DialogSheet)
    : An Android library to create fully material designed bottom dialogs similar to the Android Pay app.
+7. [Dialog Plus](https://github.com/orhanobut/dialogplus) : Advanced dialog solution for android
+8. [Elegant Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
+9. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
+
+## Expand The Views
+1. [ExpandableCardView](https://github.com/AleSpero/ExpandableCardView) : An Android library that lets you create in a simple, fast and hassle-free way a CardView in which you can insert your custom layout and just expand and collapse without even writing a single Java/Kotlin line of code.
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
    : An image loading library for Android backed by Kotlin Coroutines
 2. [Glide](https://github.com/bumptech/glide)
    : An image loading and caching library for Android focused on smooth scrolling
-3. [Picasso](https://github.com/square/picasso)
-   : A powerful image downloading and caching library for Android
+3. [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android
+4. [Android Scrolling ImageView](https://github.com/Q42/AndroidScrollingImageView) : An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.   
+   
+## Indicators
+1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+
+## JetPack Libraries
+   [Compose Icons](https://github.com/DevSrSouza/compose-icons) : Compose icons is a pack of libraries that provide well known Icon Packs to use in Jetpack Compose Multiplatform. The library usage is inspired by Compose Material Icons.
    
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
    : ✔️ Simple, pretty and powerful logger for android 
-
-## NetWork
-   [RetroFit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects)   
-   : A networking library
-
+   
 ## Menu
-   [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
+   1. [PowerMenu](https://github.com/skydoves/PowerMenu)
+   : 🔥 The powerful and easiest way to implement modern material popup menu. PowerMenu can be fully customized and used for popup dialogs.
+   2.  [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
    : Shows Material popup menus grouped in sections & more
    
+## Misc
+   1. [Form Valdidation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
+
+## Network
+   1. [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects) : A networking library
+   2. [Sandwich](https://github.com/skydoves/Sandwich) : A lightweight and standardized Android network response interface for handling successful data and error responses.
+
 ## Navigaton View
    [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
    : A simple Floating Action Button that shows an anchored Navigation View
    
 ## Permissions
-   [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
+1. [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
    : A simple library to make it easy requesting permissions in Android using Kotlin Coroutines.
+2. [Android Ask Permissions](https://github.com/memishood/android-ask-permissions) : This library helps to easily check and request permissions
    
 ## Pickers
 1. [Value Picker](https://github.com/mars885/value-picker)
@@ -135,6 +175,16 @@
    : 🥑 Handy, 🐍 flexible, and ⚡ lightning-fast Android color picker views and utilities
 3. [Image Picker](https://github.com/Dhaval2404/ImagePicker)
    : 📸Image Picker for Android, Pick an image from Gallery or Capture a new image with Camera
+4. [Picker](https://github.com/Parag2385/Picker) : A CameraX based WhatsApp Style Image-Video Picker
+5. [Number Picker](https://github.com/ShawnLin013/NumberPicker) : The android library that provides a simple and customizable NumberPicker.
+6. [Number Sliding Picker](https://github.com/sephiroth74/NumberSlidingPicker) : A widget that enables the user to select a number from a predefined range. Progress value can be changed using the up and down arrows, click and edit the editable text or swiping up/down or left/right
+7. [Pick Image](https://github.com/jrvansuita/PickImage) : This is an Android project. It shows a DialogFragment with Camera or Gallery options. The user can choose from which provider wants to pick an image.
+8. [Media Picker](https://github.com/robertlevonyan/MediaPicker) : Easy customizable picker for all your needs in Android application
+   
+## Progress Bar
+1. [ProgressView](https://github.com/skydoves/ProgressView)
+   : 🌊 A polished and flexible ProgressView, fully customizable with animations.
+2. [MultiProgressBar](https://github.com/GeniusRUS/MultiProgressBar) : This library makes it possible to display a progress bar, as in Instagram Stories, without much effort.
 
 
 ## RecyclerView Libraries
@@ -164,6 +214,16 @@
    : Never code any boilerplate RecyclerAdapter again! This library will make it easy and painless to map your data item with a target ViewHolder.
 13. [Indicator Fast Scroll](https://github.com/reddit/IndicatorFastScroll)
    : Android library providing a simple UI control for scrolling through RecyclerViews
+14. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator)
+   : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
+15. [Base RecyclerView Adapter](https://github.com/skydoves/BaseRecyclerViewAdapter)
+   : ⚡ Fast way to bind RecyclerView adapter and ViewHolder for implementing clean sections.
+16. [One Adapter](https://github.com/ironSource/OneAdapter)
+   : A Viewholderless Adapter for RecyclerView, who supports builtin diffing, states (paging, empty...), events (clicking, swiping...), and more.
+17. [Multi Snap RecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) : MultiSnapRecyclerView easily provides a snapping feature to your recycler view
+18. [Gesture Recycler](https://github.com/thesurix/gesture-recycler) : This library provides swipe & drag and drop support for RecyclerView
+19. [LoopingLayout](https://github.com/BeksOmega/looping-layout) : The Looping Layout Project is a LayoutManager for the Android RecyclerView. With this project you can add looping/circular/endless functionality to a RecyclerView.
+20. [Overscroll Decor](https://github.com/EverythingMe/overscroll-decor): Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views. 
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
@@ -172,35 +232,47 @@
    : An awesome and customizable search dialog with built-in search options.
 3. [Multi Search View](https://github.com/iammert/MultiSearchView)
    : Yet another built-in animated search view for Android.
+4. [Material Search Views](https://github.com/Mauker1/MaterialSearchView) : Android SearchView based on Material Design guidelines. The MaterialSearchView will overlay a Toolbar or ActionBar as well as display a ListView for the user to show suggested or recent searches.
    
 ## Shimmer Effect
 1. [AndroidVeil](https://github.com/skydoves/AndroidVeil)
    : 🎭 An easy, flexible way to implement veil skeletons and shimmering effect for Android.
-2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon)
-   : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
+2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon) : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
+3. [LoaderViewLibrary](https://github.com/elye/loaderviewlibrary): Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded
    
 ## Spinners
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
    : NiceSpinner is a re-implementation of the default Android's spinner, 
    with a nice arrow animation and a different way to display its content.
+2. [Multiple Select Spinner](https://github.com/pratikbutani/MultiSelectSpinner) : Android - Select Multiple Items from Spinner with Filtration.
    
 ## Startup Screen
-   [App Intro](https://github.com/AppIntro/AppIntro)
-   : Make a cool intro for your Android app.
+1. [App Intro](https://github.com/AppIntro/AppIntro) : Make a cool intro for your Android app.
+2. [Welcome-Android](https://github.com/stephentuso/welcome-android) : An easy to use and customizable welcome screen for Android apps. 
    
 ## TimelineView
 1. [Timeline-View](https://github.com/vipulasri/Timeline-View)
    : Android Timeline View is used to display views like Tracking of shipment/order, steppers etc.
+2. [Android Stepper](https://github.com/acefalobi/android-stepper) : A library for creating a wizard-like step-through user interface that uses navigation components and menus for displaying steps with advanced customization
    
 ## Tab Layout
-   [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
+1. [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
    : Extended Android Tab Layout with animated indicators that have continuous feedback.
+2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
+   : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
+   
+## Tooltips
+1. [Tooltips](https://github.com/tomergoldst/tooltips)
+   : Simple to use library for android, enabling to add a tooltip near any view with ease
+2. [Android Simple Tooltips](https://github.com/douglasjunior/android-simple-tooltip)
+   : A simple library based on PopupWindow to create Tooltips on Android. 💚
   
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
    : Android Library that lights items for tutorials or walk-throughs etc.
-2. [Material Intro View](https://github.com/iammert/MaterialIntroView)
-   : Material Intro View is a showcase android library.
+2. [Material Intro View](https://github.com/iammert/MaterialIntroView) : Material Intro View is a showcase android library.
+3. [Bubble Showcase](https://github.com/ECLaboratorio/BubbleShowCase-Android) : BubbleShowCase is a framework that let you to use informative bubbles to help your users pointing out different App features.
+   
    
 ## VideoPlayer Library
    [Exo Player Library](https://github.com/google/ExoPlayer)
@@ -219,6 +291,9 @@
    : This library makes it possible to represent View Pager Dots Indicator with 3 different awesome styles ! It supports ViewPager and ViewPager2
 6. [PageIndicatorView]( https://github.com/romandanylyk/PageIndicatorView)
    : PageIndicatorView is light library to indicate ViewPager's selected page with different animations and ability to customise it as you need.
+7. [ViewPager Dots](https://github.com/afollestad/viewpagerdots) : This library provides a very small, compact, Kotlin-based implementation for ViewPager dots. The dots can of course be switched out for whatever type of Drawable you wish. The animation can be customized as well.
+8. [CircleIndicator](https://github.com/ongakuer/CircleIndicator) : A lightweight indicator like in nexus 5 launcher
+
    
   
    
