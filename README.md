@@ -102,6 +102,7 @@
 19. [Material Cab](https://github.com/afollestad/material-cab) : 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
 20. [SocialView](https://github.com/hendraanggrian/socialview) : Android TextView and EditText with hashtag, mention, and hyperlink support
 21. [SingleDateAndTime](https://github.com/florent37/SingleDateAndTimePicker) : You can now select a date and a time with only one widget !
+22. [Bubble like Facebook Head Chat](https://github.com/txusballesteros/bubbles-for-android) : Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.
 
 
 ## Chart
