@@ -161,8 +161,8 @@
    2. [Sandwich](https://github.com/skydoves/Sandwich) : A lightweight and standardized Android network response interface for handling successful data and error responses.
 
 ## Navigaton View
-   [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View)
-   : A simple Floating Action Button that shows an anchored Navigation View
+   1. [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View) : A simple Floating Action Button that shows an anchored Navigation View
+   2. [Drawer Behavior](https://github.com/shiburagi/Drawer-Behavior) : Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view's height while drawer on slide.
    
 ## Permissions
 1. [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
