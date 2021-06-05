@@ -141,7 +141,8 @@
 1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
 
 ## JetPack Libraries
-   [Compose Icons](https://github.com/DevSrSouza/compose-icons) : Compose icons is a pack of libraries that provide well known Icon Packs to use in Jetpack Compose Multiplatform. The library usage is inspired by Compose Material Icons.
+1. [Compose Icons](https://github.com/DevSrSouza/compose-icons) : Compose icons is a pack of libraries that provide well known Icon Packs to use in Jetpack Compose Multiplatform. The library usage is inspired by Compose Material Icons.
+2. [Accompanist](https://github.com/google/accompanist) : Accompanist is a group of libraries which aim to supplement Jetpack Compose with features which are commonly required by developers, but not yet available.
    
 ## Logger
    [Logger](https://github.com/orhanobut/logger)
