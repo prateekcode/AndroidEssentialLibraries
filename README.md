@@ -268,8 +268,8 @@
 ## Tooltips
 1. [Tooltips](https://github.com/tomergoldst/tooltips)
    : Simple to use library for android, enabling to add a tooltip near any view with ease
-2. [Android Simple Tooltips](https://github.com/douglasjunior/android-simple-tooltip)
-   : A simple library based on PopupWindow to create Tooltips on Android. 💚
+2. [Android Simple Tooltips](https://github.com/douglasjunior/android-simple-tooltip) : A simple library based on PopupWindow to create Tooltips on Android. 💚
+3. [Tap Target Prompt](https://github.com/sjwall/MaterialTapTargetPrompt) : A Tap Target implementation in Android based on Material Design Onboarding guidelines. 
   
 ## Tutorial for your App/Spotlight
 1.  [Spotlight](https://github.com/TakuSemba/Spotlight)
