@@ -26,7 +26,7 @@
 6. [ViewAnimator](https://github.com/florent37/ViewAnimator) : A fluent Android animation library ! 
    
 ## Android Scanner
-   [Scan Library](https://github.com/ybq/Android-SpinKit)
+   [Scan Library](https://github.com/jhansireddy/AndroidScannerDemo)
    : ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
    
 ## Avatars
