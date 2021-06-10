@@ -145,8 +145,8 @@
 2. [Accompanist](https://github.com/google/accompanist) : Accompanist is a group of libraries which aim to supplement Jetpack Compose with features which are commonly required by developers, but not yet available.
    
 ## Logger
-   [Logger](https://github.com/orhanobut/logger)
-   : ✔️ Simple, pretty and powerful logger for android 
+1. [Logger](https://github.com/orhanobut/logger) : ✔️ Simple, pretty and powerful logger for android 
+2. [Timber](https://github.com/JakeWharton/timber): A logger with a small, extensible API which provides utility on top of Android's normal Log class.
    
 ## Menu
    1. [PowerMenu](https://github.com/skydoves/PowerMenu)
