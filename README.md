@@ -136,6 +136,9 @@
    : An image loading and caching library for Android focused on smooth scrolling
 3. [Picasso](https://github.com/square/picasso) : A powerful image downloading and caching library for Android
 4. [Android Scrolling ImageView](https://github.com/Q42/AndroidScrollingImageView) : An Android view for displaying repeated continuous side scrolling images. This can be used to create a parallax animation effect.   
+
+## Image Viewer
+1. [Loupe](https://github.com/igreenwood/loupe) : Twitter-like Android image viewer library
    
 ## Indicators
 1. [Android Indefinite Page Indicator](https://github.com/wching/Android-Indefinite-Pager-Indicator) : A lightweight, plug-and-play indefinite pager indicator for RecyclerViews & ViewPagers.
