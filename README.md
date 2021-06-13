@@ -283,8 +283,7 @@
    
    
 ## VideoPlayer Library
-   [Exo Player Library](https://github.com/google/ExoPlayer)
-   : An extensible media player for Android
+   [Exo Player Library](https://github.com/google/ExoPlayer): An extensible media player for Android
 
 ## ViewPager Libraries
 1. [Looping ViewPager](https://github.com/kenilt/LoopingViewPager)
