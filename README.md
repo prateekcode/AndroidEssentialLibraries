@@ -104,6 +104,7 @@
 21. [SingleDateAndTime](https://github.com/florent37/SingleDateAndTimePicker) : You can now select a date and a time with only one widget !
 22. [Bubble like Facebook Head Chat](https://github.com/txusballesteros/bubbles-for-android) : Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.
 23. [Sticky Timeline](https://github.com/sangcomz/StickyTimeLine): StickyTimeLine is timeline view for android.
+24. [Shadown Layout](https://github.com/L-Briand/ShadowLayout) : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
 
 
 ## Chart
