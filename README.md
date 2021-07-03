@@ -235,6 +235,8 @@
 18. [Gesture Recycler](https://github.com/thesurix/gesture-recycler) : This library provides swipe & drag and drop support for RecyclerView
 19. [LoopingLayout](https://github.com/BeksOmega/looping-layout) : The Looping Layout Project is a LayoutManager for the Android RecyclerView. With this project you can add looping/circular/endless functionality to a RecyclerView.
 20. [Overscroll Decor](https://github.com/EverythingMe/overscroll-decor): Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views. 
+21. [CardSlider](https://github.com/IslamKhSh/CardSlider) : Card Slider is an android component allows you to implement carousel effect with infinite indicators and more features
+22. [Read More Text View](https://github.com/bravoborja/ReadMoreTextView) : A Custom TextView with trim text
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
