@@ -237,6 +237,7 @@
 20. [Overscroll Decor](https://github.com/EverythingMe/overscroll-decor): Android: iOS-like over-scrolling effect applicable over almost all scrollable Android views. 
 21. [CardSlider](https://github.com/IslamKhSh/CardSlider) : Card Slider is an android component allows you to implement carousel effect with infinite indicators and more features
 22. [Read More Text View](https://github.com/bravoborja/ReadMoreTextView) : A Custom TextView with trim text
+23. [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) : Android Carousel LayoutManager for RecyclerView
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
