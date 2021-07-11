@@ -108,7 +108,8 @@
 24. [Shadown Layout](https://github.com/L-Briand/ShadowLayout) : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
 25. [Text Surface](https://github.com/elevenetc/TextSurface) : A little animation framework which could help you to show message in a nice looking way.
 26. [Rolling Text](https://github.com/YvesCheung/RollingText) : Android TextView with rolling animation
-27. [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) : This project aims to provide a reusable WaveSwipe to Refresh widget for Android.
+27. [Rotating Text](https://github.com/mdg-iitr/RotatingText) : Rotating text is an Android library that can be used to make text switching painless and beautiful, with the use of interpolators, typefaces and more customisations.
+28. [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) : This project aims to provide a reusable WaveSwipe to Refresh widget for Android.
 
 
 ## Chart
