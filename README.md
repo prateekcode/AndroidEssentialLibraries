@@ -312,6 +312,7 @@
    : PageIndicatorView is light library to indicate ViewPager's selected page with different animations and ability to customise it as you need.
 7. [ViewPager Dots](https://github.com/afollestad/viewpagerdots) : This library provides a very small, compact, Kotlin-based implementation for ViewPager dots. The dots can of course be switched out for whatever type of Drawable you wish. The animation can be customized as well.
 8. [CircleIndicator](https://github.com/ongakuer/CircleIndicator) : A lightweight indicator like in nexus 5 launcher
+9. [LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe):LiquidSwipe is a viewpager library that can be used to make awesome onboarding designs
 
    
   
