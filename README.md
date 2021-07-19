@@ -276,10 +276,9 @@
 2. [Android Stepper](https://github.com/acefalobi/android-stepper) : A library for creating a wizard-like step-through user interface that uses navigation components and menus for displaying steps with advanced customization
    
 ## Tab Layout
-1. [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout)
-   : Extended Android Tab Layout with animated indicators that have continuous feedback.
-2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation)
-   : Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
+1. [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout): Extended Android Tab Layout with animated indicators that have continuous feedback.
+2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation): Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
+3. [Animated Tab Layout](https://github.com/iammert/AnimatedTabLayout) : Yet another android tab layout
    
 ## Tooltips
 1. [Tooltips](https://github.com/tomergoldst/tooltips)
