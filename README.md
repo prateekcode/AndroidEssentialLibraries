@@ -240,6 +240,7 @@
 21. [CardSlider](https://github.com/IslamKhSh/CardSlider) : Card Slider is an android component allows you to implement carousel effect with infinite indicators and more features
 22. [Read More Text View](https://github.com/bravoborja/ReadMoreTextView) : A Custom TextView with trim text
 23. [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) : Android Carousel LayoutManager for RecyclerView
+24. [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators): An Android library which provides simple Item animations to RecyclerView items
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
