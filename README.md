@@ -43,8 +43,8 @@
    : A button to substitute the ProgressDialog
 2. [Elegant Number Button](https://github.com/ashik94vc/ElegantNumberButton)
    : A simple Android library to implement a number counter with increment and decrement buttons.
-3. [Synth Android](https://github.com/CRED-CLUB/synth-android)
-   : Synth is CRED's inbuilt library for using Neumorphic components in your app.
+3. [Synth Android](https://github.com/CRED-CLUB/synth-android): Synth is CRED's inbuilt library for using Neumorphic components in your app.
+4. [Themed Toggle Button Group](https://github.com/Bryanx/themed-toggle-button-group) : ThemedToggleButtonGroup is a highly modular lightweight toggle button library for Android. It can be configured for single selection or multi selection
    
 ## Bottom Navigation View
 1. [Bottomify Navigation View](https://github.com/volsahin/bottomify-navigation-view)
