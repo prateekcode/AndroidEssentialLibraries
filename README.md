@@ -109,6 +109,7 @@
 24. [Shadown Layout](https://github.com/L-Briand/ShadowLayout) : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
 25. [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) : This project aims to provide a reusable WaveSwipe to Refresh widget for Android.
 26. [Hauler](https://github.com/futuredapp/hauler) : Library with swipe to dismiss Activity gesture implementation
+27. [SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner): The best Android spinner library for your android application with more customization
 
 ## Chart
    [MPAndroid Chart](https://github.com/PhilJay/MPAndroidChart)
