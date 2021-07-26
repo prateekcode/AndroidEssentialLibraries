@@ -156,6 +156,9 @@
 ## Logger
 1. [Logger](https://github.com/orhanobut/logger) : ✔️ Simple, pretty and powerful logger for android 
 2. [Timber](https://github.com/JakeWharton/timber): A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+## Lock View
+1. [PatternLockView](https://github.com/aritraroy/PatternLockView) : An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
    
 ## Menu
    1. [PowerMenu](https://github.com/skydoves/PowerMenu)
