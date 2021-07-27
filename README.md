@@ -159,6 +159,7 @@
 
 ## Lock View
 1. [PatternLockView](https://github.com/aritraroy/PatternLockView) : An easy-to-use, customizable, Material Design ready Pattern Lock view for Android.
+2. [Pin Lock View](https://github.com/aritraroy/PinLockView) : A clean, minimal, highly customizable pin lock view for Android
    
 ## Menu
    1. [PowerMenu](https://github.com/skydoves/PowerMenu)
