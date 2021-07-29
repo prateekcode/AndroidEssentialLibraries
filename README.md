@@ -178,6 +178,9 @@
    1. [Floating Navigation View](https://github.com/andremion/Floating-Navigation-View) : A simple Floating Action Button that shows an anchored Navigation View
    2. [Drawer Behavior](https://github.com/shiburagi/Drawer-Behavior) : Drawer behavior is a library that provide an extra behavior on drawer, such as, move view or scaling view's height while drawer on slide.
    3. [Custom Navigation Drawer](https://github.com/shrikanth7698/Custom-Navigation-Drawer) : Custom Navigation Drawer Library for Android
+
+## PDF
+   1. [PDFViewAndroid](https://github.com/Dmitry-Borodin/pdfview-android) : Android PDF view - small (73kB .aar file, ~400 methods before minification) and efficient PDF viewer embedded in your native app
    
 ## Permissions
 1. [Permission Flow](https://github.com/innfinity-am/PermissionsFlow)
