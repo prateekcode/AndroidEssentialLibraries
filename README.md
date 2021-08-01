@@ -249,6 +249,7 @@
 22. [Read More Text View](https://github.com/bravoborja/ReadMoreTextView) : A Custom TextView with trim text
 23. [Carousel Layout Manager](https://github.com/Azoft/CarouselLayoutManager) : Android Carousel LayoutManager for RecyclerView
 24. [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators): An Android library which provides simple Item animations to RecyclerView items
+25. [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android): A drop-in custom layout manager for Android RecyclerViews to layout a grid of photos while respecting their aspect ratios.
 
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
