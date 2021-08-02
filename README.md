@@ -56,6 +56,7 @@
 5. [Bubble Tab Bar](https://github.com/akshay2211/BubbleTabBar) : BubbleTabBar is bottom navigation bar with customizable bubble like tabs
 6. [SSCustomBottomNavigation](https://github.com/SimformSolutionsPvtLtd/SSCustomBottomNavigation) : SSCustomBottomNavigation is a customizable bottom bar library with curved animations.
 7. [MeowBottomNavigation](https://github.com/oneHamidreza/MeowBottomNavigation) : A simple & curved & material bottom navigation for Android written in Kotlin with hearts
+8. [Readable Bottom Bar](https://github.com/iammert/ReadableBottomBar) : Yet another material bottom bar library for Android
    
 ## Bottom Sheet
 1. [Modal Bottom Sheet](https://github.com/invissvenska/ModalBottomSheetDialog) : Another BottomSheetDialog for Android
