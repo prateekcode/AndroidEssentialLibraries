@@ -303,6 +303,7 @@
    : Android Library that lights items for tutorials or walk-throughs etc.
 2. [Material Intro View](https://github.com/iammert/MaterialIntroView) : Material Intro View is a showcase android library.
 3. [Bubble Showcase](https://github.com/ECLaboratorio/BubbleShowCase-Android) : BubbleShowCase is a framework that let you to use informative bubbles to help your users pointing out different App features.
+4. [FancyShowcase](https://github.com/faruktoptas/FancyShowCaseView): An easy-to-use customisable show case view with circular reveal animation.
    
    
 ## VideoPlayer Library
