@@ -133,6 +133,9 @@
 8. [Elegant Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
 9. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
 
+## Downloader
+1. [PR Downloader](https://github.com/MindorksOpenSource/PRDownloader) : PRDownloader - A file downloader library for Android with pause and resume support
+
 ## Expand The Views
 1. [ExpandableCardView](https://github.com/AleSpero/ExpandableCardView) : An Android library that lets you create in a simple, fast and hassle-free way a CardView in which you can insert your custom layout and just expand and collapse without even writing a single Java/Kotlin line of code.
    
