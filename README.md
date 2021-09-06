@@ -24,6 +24,7 @@
 4. [SpinKit](https://github.com/ybq/Android-SpinKit) : Android loading animations(I wrote a android edition according SpinKit)
 5. [TransformationLayout](https://github.com/skydoves/TransformationLayout) : Transform into a different view or activity using morphing animations. Using Transformation motions of new material version.
 6. [ViewAnimator](https://github.com/florent37/ViewAnimator) : A fluent Android animation library ! 
+7. [Android Particles](https://github.com/ibrahimsn98/android-particles) : A lightweight Particle Animation Library for Android
    
 ## Android Scanner
    [Scan Library](https://github.com/jhansireddy/AndroidScannerDemo)
