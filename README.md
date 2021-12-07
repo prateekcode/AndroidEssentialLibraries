@@ -281,6 +281,9 @@
 1. [App Intro](https://github.com/AppIntro/AppIntro) : Make a cool intro for your Android app.
 2. [Welcome-Android](https://github.com/stephentuso/welcome-android) : An easy to use and customizable welcome screen for Android apps. 
 
+## Switch
+1. [Switcher](https://github.com/bitvale/Switcher) : Android implementation of switch animation from Oleg Frolov
+
 ## TextView - Custom/Animated
 1. [Text Surface](https://github.com/elevenetc/TextSurface) : A little animation framework which could help you to show message in a nice looking way.
 2. [Rolling Text](https://github.com/YvesCheung/RollingText) : Android TextView with rolling animation
