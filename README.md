@@ -279,7 +279,10 @@
    
 ## Startup Screen
 1. [App Intro](https://github.com/AppIntro/AppIntro) : Make a cool intro for your Android app.
-2. [Welcome-Android](https://github.com/stephentuso/welcome-android) : An easy to use and customizable welcome screen for Android apps. 
+2. [Welcome-Android](https://github.com/stephentuso/welcome-android) : An easy to use and customizable welcome screen for Android apps.
+
+## Story View
+1. [StoryView Like Facebook](https://github.com/OMARIHAMZA/StoryView) : StoryView is an Android Library for displaying stories like Facebook
 
 ## Switch
 1. [Switcher](https://github.com/bitvale/Switcher) : Android implementation of switch animation from Oleg Frolov
