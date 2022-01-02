@@ -286,6 +286,7 @@
 
 ## Switch
 1. [Switcher](https://github.com/bitvale/Switcher) : Android implementation of switch animation from Oleg Frolov
+2. [Android Toggle](https://github.com/Angads25/android-toggle) : Custom Switches for Android
 
 ## TextView - Custom/Animated
 1. [Text Surface](https://github.com/elevenetc/TextSurface) : A little animation framework which could help you to show message in a nice looking way.
