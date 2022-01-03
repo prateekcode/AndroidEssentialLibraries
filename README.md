@@ -174,6 +174,7 @@
    
 ## Misc
    1. [Form Valdidation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
+   2. [Easy UPI Payment - Android](https://github.com/PatilShreyas/EasyUpiPayment-Android) : 📱Android Library to implement UPI Payment integration easily in Android App 💳💸
 
 ## Network
    1. [Retrofit](https://square.github.io/retrofit/#:~:text=Retrofit%20is%20the%20class%20through,are%20turned%20into%20callable%20objects) : A networking library
