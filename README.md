@@ -257,6 +257,9 @@
 24. [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators): An Android library which provides simple Item animations to RecyclerView items
 25. [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android): A drop-in custom layout manager for Android RecyclerViews to layout a grid of photos while respecting their aspect ratios.
 
+## SeekBar
+1. [RangeSeekBar](https://github.com/MohammedAlaaMorsi/RangeSeekBar): Android Range Seekbar library that support Min & Max Value for API level >= 16 and support Step Value
+
 ## Search Libraries
 1. [Simple Search View](https://github.com/Ferfalk/SimpleSearchView) 
    : A simple SearchView for Android based on Material Design
