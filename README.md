@@ -258,6 +258,9 @@
 25. [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android): A drop-in custom layout manager for Android RecyclerViews to layout a grid of photos while respecting their aspect ratios.
 26. [DragDropSwipeRecyclerview](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview) : Kotlin Android library that extends RecyclerView to support gestures like drag & drop and swipe, among others. It works with vertical, horizontal and grid lists.
 
+## Rating
+1. [SimpleRatingBar](https://github.com/williamyyu/SimpleRatingBar): A simple RatingBar that you can easier to customize image and animations
+
 ## SeekBar
 1. [RangeSeekBar](https://github.com/MohammedAlaaMorsi/RangeSeekBar): Android Range Seekbar library that support Min & Max Value for API level >= 16 and support Step Value
 
