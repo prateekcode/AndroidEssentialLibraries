@@ -139,6 +139,7 @@
 
 ## Expand The Views
 1. [ExpandableCardView](https://github.com/AleSpero/ExpandableCardView) : An Android library that lets you create in a simple, fast and hassle-free way a CardView in which you can insert your custom layout and just expand and collapse without even writing a single Java/Kotlin line of code.
+2. [ExpandableLayout](https://github.com/cachapa/ExpandableLayout) : An Android layout class that supports animating the expansion and collapse of its child views.
    
 ## Image Loading 
 1. [Coil](https://github.com/coil-kt/coil)
