@@ -257,6 +257,7 @@
 24. [RecyclerViewItemAnimators](https://github.com/gabrielemariotti/RecyclerViewItemAnimators): An Android library which provides simple Item animations to RecyclerView items
 25. [Greedo Layout for Android](https://github.com/500px/greedo-layout-for-android): A drop-in custom layout manager for Android RecyclerViews to layout a grid of photos while respecting their aspect ratios.
 26. [DragDropSwipeRecyclerview](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview) : Kotlin Android library that extends RecyclerView to support gestures like drag & drop and swipe, among others. It works with vertical, horizontal and grid lists.
+27. [Expandable Recycler Views](https://github.com/Xigong93/ExpandableRecyclerView): ExpandableRecyclerView with smoothly animation.
 
 ## Rating
 1. [SimpleRatingBar](https://github.com/williamyyu/SimpleRatingBar): A simple RatingBar that you can easier to customize image and animations
