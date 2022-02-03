@@ -311,6 +311,7 @@
 1. [Extended Tab Layout](https://github.com/Andy671/Dachshund-Tab-Layout): Extended Android Tab Layout with animated indicators that have continuous feedback.
 2. [Android Tab Animation](https://github.com/cats-oss/android-tab-animation): Easily create TabLayout.Tab animations that sync with the scrolling progress of ViewPager
 3. [Animated Tab Layout](https://github.com/iammert/AnimatedTabLayout) : Yet another android tab layout
+4. [SnapTabLayout](https://github.com/nirukk52/SnapTabLayout) : This library is the implementation of TabLayout as seen on popular messaging app Snapchat Snapchat.com. It can be used to animate Three or Five tabs.
    
 ## Tooltips
 1. [Tooltips](https://github.com/tomergoldst/tooltips)
