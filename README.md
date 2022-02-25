@@ -279,6 +279,7 @@
    : 🎭 An easy, flexible way to implement veil skeletons and shimmering effect for Android.
 2. [Android Ribbon](https://github.com/skydoves/AndroidRibbon) : 🎀 The simple way to implement a beautiful ribbon with the shimmering on Android.
 3. [LoaderViewLibrary](https://github.com/elye/loaderviewlibrary): Library that enables TextView of ImageView to show loading animation while waiting for the text and image get loaded
+4. [SkeltonLayout](https://github.com/Faltenreich/SkeletonLayout): Skeleton view pattern for Android
    
 ## Spinners
 1. [Nice Spinner](https://github.com/arcadefire/nice-spinner)
