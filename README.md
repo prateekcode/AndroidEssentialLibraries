@@ -133,6 +133,7 @@
 7. [Dialog Plus](https://github.com/orhanobut/dialogplus) : Advanced dialog solution for android
 8. [Elegant Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
 9. [Sheets](https://github.com/maxkeppeler/sheets) ⭐ Offers a range of beautiful sheets (dialogs & bottom sheets) for quick use in your project. Includes many ways to customize sheets.
+10. [Flat-Dialog](https://github.com/mejdi14/Flat-Dialog-Android): 📱Android Library to implement beautiful dialogs in android apps easily
 
 ## Downloader
 1. [PR Downloader](https://github.com/MindorksOpenSource/PRDownloader) : PRDownloader - A file downloader library for Android with pause and resume support
