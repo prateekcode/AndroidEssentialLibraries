@@ -27,8 +27,7 @@
 7. [Android Particles](https://github.com/ibrahimsn98/android-particles) : A lightweight Particle Animation Library for Android
    
 ## Android Scanner
-   [Scan Library](https://github.com/jhansireddy/AndroidScannerDemo)
-   : ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
+   [Scan Library](https://github.com/jhansireddy/AndroidScannerDemo) : ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
    
 ## Avatars
 1.  [Amazing Avatars](https://github.com/hearsilent/AmazingAvatar)
