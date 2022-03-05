@@ -5,10 +5,8 @@
 
 
 ## Alert
-1. [Beautiful Alert Dialog](https://github.com/muigukenneth/ElegantDialog)
-   : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
-2. [Alerter - Alert on the Top](https://github.com/Tapadoo/Alerter)
-   : With simplicity in mind, the Alerter employs the builder pattern to facilitate easy integration into any app. A customisable Alert View is dynamically added to the Decor View of the Window, overlaying all content.
+1. [Beautiful Alert Dialog](https://github.com/muigukenneth/ElegantDialog) : A beautiful, customizable and interactive dialog for Android written in Kotlin/Java 😍
+2. [Alerter - Alert on the Top](https://github.com/Tapadoo/Alerter) : With simplicity in mind, the Alerter employs the builder pattern to facilitate easy integration into any app. A customisable Alert View is dynamically added to the Decor View of the Window, overlaying all content.
 3. [Flashbar](https://github.com/aritraroy/Flashbar)
    : ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
 4. [CookieBar2](https://github.com/AviranAbady/CookieBar2) : CookieBar2 is an Android library for displaying messages, notifications and alerts at the top or bottom of the screen. A great alternative for toast messages. Excellent replacement for snackbar notifications. Android messages never looked better!
