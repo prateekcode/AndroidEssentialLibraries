@@ -168,8 +168,8 @@
 ## Menu
    1. [PowerMenu](https://github.com/skydoves/PowerMenu)
    : 🔥 The powerful and easiest way to implement modern material popup menu. PowerMenu can be fully customized and used for popup dialogs.
-   2.  [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu)
-   : Shows Material popup menus grouped in sections & more
+   2.  [Material Popup Menu](https://github.com/zawadz88/MaterialPopupMenu): Shows Material popup menus grouped in sections & more
+   3.  [Circle Menu](https://github.com/ImangazalievM/CircleMenu) : CircleMenu is a simple, elegant menu with a circular layout.
    
 ## Misc
    1. [Form Valdidation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
