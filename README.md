@@ -349,6 +349,16 @@
 9. [LiquidSwipe](https://github.com/Chrisvin/LiquidSwipe):LiquidSwipe is a viewpager library that can be used to make awesome onboarding designs
 10. [Why Not! Image Carousel](https://github.com/ImaginativeShohag/Why-Not-Image-Carousel) : An easy, super simple and customizable image carousel view for Android.
 
+## Dependency Injection(DI) Libraries
+
+1. [Dagger](https://github.com/google/dagger)
+   : A fast dependency injector for Java and Android.
+2. [Hilt](https://dagger.dev/hilt/)
+   : Hilt provides a standard way to incorporate Dagger
+dependency injection into an Android application. It simplify dagger 2 implementation for android.
+3. [Koin](https://github.com/InsertKoinIO/koin)
+   : A pragmatic lightweight dependency injection framework for Kotlin developers. Koin is a DSL, a light container and a pragmatic API
+
 
 
    
