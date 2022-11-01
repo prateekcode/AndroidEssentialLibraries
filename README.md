@@ -10,7 +10,7 @@
 3. [Flashbar](https://github.com/aritraroy/Flashbar)
    : ⚡️A highly customizable, powerful and easy-to-use alerting library for Android.
 4. [CookieBar2](https://github.com/AviranAbady/CookieBar2) : CookieBar2 is an Android library for displaying messages, notifications and alerts at the top or bottom of the screen. A great alternative for toast messages. Excellent replacement for snackbar notifications. Android messages never looked better!
-5. [MotionToast](https://github.com/Spikeysanju/MotionToast) : A Beautiful Motion Toast Library for Kotlin Android with vairous customizability and in-built night mode.
+5. [MotionToast](https://github.com/Spikeysanju/MotionToast) : A Beautiful Motion Toast Library for Kotlin Android with various customizability and in-built night mode.
    
 ## Animations
 1. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
@@ -80,7 +80,7 @@
 6. [Expandable Layout](https://github.com/iammert/ExpandableLayout)
    : Expandable LinearLayout
 7. [Shadow Layout](https://github.com/L-Briand/ShadowLayout)
-   : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of    the design. So, there it goes.
+   : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
 8. [Arc Layout](https://github.com/florent37/ArcLayout)
    : With Arc Layout explore new styles and approaches on material design
 9. [Custom Edit Text Outline Box](https://github.com/SimformSolutionsPvtLtd/SSCustomEditTextOutLineBorder)
@@ -98,14 +98,14 @@
 15. [Material Chip View](https://github.com/robertlevonyan/materialChipView)
    : Material Chip view. Can be used as tags for categories, contacts or creating text clouds. This library can be an alternative for Material Chip from Jetpack library.
 16. [Expandable Layout](https://github.com/cachapa/ExpandableLayout) : An expandable layout container for Android
-17. [WaveView](https://github.com/john990/WaveView) : A wave view of android,can be used as progress bar.
+17. [WaveView](https://github.com/john990/WaveView) : A wave view of android, can be used as progress bar.
 18. [CarouselView](https://github.com/alirezat775/carousel-view) : Useful library for showing list in sliding mode or carousel mode
 19. [Material Cab](https://github.com/afollestad/material-cab) : 🚕 An Android & Kotlin library for placing and manipulating Contextual Action Bars in your UI.
 20. [SocialView](https://github.com/hendraanggrian/socialview) : Android TextView and EditText with hashtag, mention, and hyperlink support
 21. [SingleDateAndTime](https://github.com/florent37/SingleDateAndTimePicker) : You can now select a date and a time with only one widget !
 22. [Bubble like Facebook Head Chat](https://github.com/txusballesteros/bubbles-for-android) : Bubbles for Android is an Android library to provide chat heads capabilities on your apps. With a fast way to integrate with your development.
 23. [Sticky Timeline](https://github.com/sangcomz/StickyTimeLine): StickyTimeLine is timeline view for android.
-24. [Shadown Layout](https://github.com/L-Briand/ShadowLayout) : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
+24. [Shadow Layout](https://github.com/L-Briand/ShadowLayout) : Have you ever wanted a CSS type of shadow in your Android project ? No?! Me neither but designers keep using it and the death flag is triggered when the app isn't a copy of the design. So, there it goes.
 25. [WaveSwipeRefreshLayout](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout) : This project aims to provide a reusable WaveSwipe to Refresh widget for Android.
 26. [Hauler](https://github.com/futuredapp/hauler) : Library with swipe to dismiss Activity gesture implementation
 27. [SmartMaterialSpinner](https://github.com/Chivorns/SmartMaterialSpinner): The best Android spinner library for your android application with more customization
@@ -172,7 +172,7 @@
    3.  [Circle Menu](https://github.com/ImangazalievM/CircleMenu) : CircleMenu is a simple, elegant menu with a circular layout.
    
 ## Misc
-   1. [Form Valdidation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
+   1. [Form Validation Library](https://github.com/ibrahimsn98/Freya) : A lightweight, simplified form validation library for Android
    2. [Easy UPI Payment - Android](https://github.com/PatilShreyas/EasyUpiPayment-Android) : 📱Android Library to implement UPI Payment integration easily in Android App 💳💸
 
 ## Network
